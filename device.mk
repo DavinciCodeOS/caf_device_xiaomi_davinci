@@ -102,5 +102,8 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     DavinciWifiOverlay
 
+# Miscellaneous
+TARGET_BOOT_ANIMATION_RES := 1080
+
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/davinci/davinci-vendor.mk)
