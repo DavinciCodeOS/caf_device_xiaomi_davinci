@@ -21,7 +21,6 @@ vendor/etc/acdbdata/adsp_avs_config.acdb
 vendor/firmware/tfa98xx.cnt
 
 # Audio libraries
--vendor/lib/btaudio_offload_if.so
 -vendor/lib/libadm.so
 -vendor/lib/libqtigef.so
 
